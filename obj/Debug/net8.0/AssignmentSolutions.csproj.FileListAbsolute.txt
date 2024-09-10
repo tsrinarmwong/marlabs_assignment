@@ -1,0 +1,14 @@
+/Users/t.snw/Documents/CODING/MarLabs/DotNetAssignments/AssignmentSolutions/bin/Debug/net8.0/AssignmentSolutions
+/Users/t.snw/Documents/CODING/MarLabs/DotNetAssignments/AssignmentSolutions/bin/Debug/net8.0/AssignmentSolutions.deps.json
+/Users/t.snw/Documents/CODING/MarLabs/DotNetAssignments/AssignmentSolutions/bin/Debug/net8.0/AssignmentSolutions.runtimeconfig.json
+/Users/t.snw/Documents/CODING/MarLabs/DotNetAssignments/AssignmentSolutions/bin/Debug/net8.0/AssignmentSolutions.dll
+/Users/t.snw/Documents/CODING/MarLabs/DotNetAssignments/AssignmentSolutions/bin/Debug/net8.0/AssignmentSolutions.pdb
+/Users/t.snw/Documents/CODING/MarLabs/DotNetAssignments/AssignmentSolutions/obj/Debug/net8.0/AssignmentSolutions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/t.snw/Documents/CODING/MarLabs/DotNetAssignments/AssignmentSolutions/obj/Debug/net8.0/AssignmentSolutions.AssemblyInfoInputs.cache
+/Users/t.snw/Documents/CODING/MarLabs/DotNetAssignments/AssignmentSolutions/obj/Debug/net8.0/AssignmentSolutions.AssemblyInfo.cs
+/Users/t.snw/Documents/CODING/MarLabs/DotNetAssignments/AssignmentSolutions/obj/Debug/net8.0/AssignmentSolutions.csproj.CoreCompileInputs.cache
+/Users/t.snw/Documents/CODING/MarLabs/DotNetAssignments/AssignmentSolutions/obj/Debug/net8.0/AssignmentSolutions.dll
+/Users/t.snw/Documents/CODING/MarLabs/DotNetAssignments/AssignmentSolutions/obj/Debug/net8.0/refint/AssignmentSolutions.dll
+/Users/t.snw/Documents/CODING/MarLabs/DotNetAssignments/AssignmentSolutions/obj/Debug/net8.0/AssignmentSolutions.pdb
+/Users/t.snw/Documents/CODING/MarLabs/DotNetAssignments/AssignmentSolutions/obj/Debug/net8.0/AssignmentSolutions.genruntimeconfig.cache
+/Users/t.snw/Documents/CODING/MarLabs/DotNetAssignments/AssignmentSolutions/obj/Debug/net8.0/ref/AssignmentSolutions.dll
